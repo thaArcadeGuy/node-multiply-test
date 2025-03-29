@@ -4,6 +4,6 @@ import { describe, it } from "node:test";
 
 describe("Multiplication function", () => {
   it("should multiply two numbers correctly", () => {
-    assert.strictEqual(multiply(2, 2), 4);
+    assert.strictEqual(multiply(3, 3), 9);
   });
 });
